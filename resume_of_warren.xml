@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE resume PUBLIC "-//Sean Kelly//DTD Resume 1.5.1//EN"
+  "./xml-resume-lib/dtd/resume.dtd">
+
+<resume>
+  <header>
+    <name>
+      <firstname>Warren</firstname>
+      <surname>Young</surname>
+    </name>
+<!--
+    <birth>
+    <date>
+      <dayOfMonth>23</dayOfMonth>
+      <month>July</month>
+      <year>1977</year>
+    </date>
+    </birth>
+-->
+    <para>23 July 1977</para>
+    <address>
+      <street>No.158 Heng Li Xin Cun, Qi Bao Town, Min Hang District</street>
+      <city>Shanghai</city>
+      <zip>201101</zip>
+      <country>China</country>
+    </address>
+    <contact>
+      <phone>001186-139-1829-6725</phone>
+      <email>yang.warren@gmail.com</email>
+      <instantMessage service="msn">warren_is_young@hotmail.com</instantMessage>
+    </contact>
+  </header>
+
+  <objective>
+    <para>
+	To contribute strong professional and problem solving skills, 
+	along with unique drive for excellence and success, to your organization in a 
+	Linux/Unix software development/system administration related position. 
+    </para>
+  </objective>
+
+  <academics>
+    <title>Certifications and Training</title>
+    <degrees>
+      <degree>
+        <level>Red Hat Certified Engineer ( RHCE )</level>
+      </degree>
+      <degree>
+        <level>CCNA and CCNP training</level>
+      </degree>
+      <degree>
+        <level>Mac OS X Essential training</level>
+      </degree>
+      <degree>
+        <level>IBM AS400 training</level>
+      </degree>
+    </degrees>
+  </academics>
+
+  <skillarea>
+    <title>Professional Skills</title>
+    <skillset>
+      <title>Operating System</title>
+      <skill>
+        Linux(Red Hat, Debian, Ubuntu, Fedora, Linpus, SUSE, Knoppix), Mac OS X(Tiger, Leopard, Snow Leopard),
+        windows 2003/2000/XP, FreeBSD, OpenBSD, OpenSolaris, Digital Unix, Novell Netware
+      </skill>
+    </skillset>
+    <skillset>
+      <title>Programming Language</title>
+      <skill>
+        C, C++, bash shell scripting, python, perl, HTML, LaTeX
+      </skill>
+    </skillset>
+    <skillset>
+      <title>Databases</title>
+      <skill>
+        MySQL, PostgreSQL, MS SQL Server 2000, Oracle
+      </skill>
+    </skillset>
+    <skillset>
+      <title>Open Source Tools</title>
+      <skill>
+        iptables, GNU Make, vi, Emacs, Tcpdump, Subverion, GIT, GNU coreutils and various kinds of free and open source software
+      </skill>
+    </skillset>
+    <skillset>
+      <title>Services</title>
+      <skill>
+        Squid, DHCP, Bind, Apache2, nginx, NFS, Samba, OpenLDAP, Postfix, Puppet, Nagios, Awstats
+      </skill>
+    </skillset>
+    <skillset>
+      <title>Virtualization Software</title>
+	<skill>
+	  KVM, Xen, VMWare
+	</skill>
+    </skillset>
+    <skillset>
+      <title>Commercial Software</title>
+      <skill>
+	CommVault, PowerSchool, Novell GroupWise, Novell eDirectory, Sunsystems, Citrix Metaframe
+      </skill>
+    </skillset>
+    <skillset>
+      <title>Hardware</title>
+      <skill>
+	HP/IBM/DELL PC servers, IBM/Fujitsu Blade servers, Brocade SAN Switch 200E/300E, HP StorageWorks MSA 1500/2000 Disk Array,
+	Dell TL 4000 Tape Library, Cisco/3Com switch, Cisco router, 3Com TippingPoint, Packeteer PacketShape, Barracuda Spam Firewall, 
+	Digital Alpha
+      </skill>
+    </skillset>
+  </skillarea>
+
+  <history>
+    <job>
+      <jobtitle>System Administrator</jobtitle>
+      <employer>Shanghai American School, Technology Office</employer>
+      <period>
+	<from>
+	  <date>
+	    <month>December</month>
+	    <year>2007</year>
+	  </date>
+	</from>
+	<to>
+	  <date>
+	    <month>July</month>
+	    <year>2010</year>
+	  </date>
+	</to>
+      </period>
+      <description>
+	<para>
+	  System administrator for school wide information system of approximately 3000+ MACs and PCs, 50+ servers,
+          various network and storage equipments.
+	</para>
+	<para>
+	  Duties And Responsibilities:
+	</para>
+	<projects>
+	<project>
+	  Linux based architecture design, servers installation, setup, management and maintenance.
+	</project>
+	<project>
+	  Open source applications installation, setup, management and maintenance for school wide
+	  (Moodle, Wordpress, SocialMedia, Gallery, Elgg, etc).
+	</project>
+	<project>
+	  Backup system management(CommVault Simpana 8.0, Brocade SAN switch 200E, 
+	  HP StorageWorks MSA 1500 disk array and Dell TL 4000 Tape Library).
+	</project>
+	<project>
+	  Other information systems management and maintenance(Cisco Switch and Router, Cisco NAC, 3Com TippingPoint,
+	  Packeteer, Barracuda Spam Firewall, Windows Server 2000/2003, PowerSchool,  Novell Netware, Novell eDirectory, Novell GroupWise, 
+	  Mac OS X Server and various systems).
+	</project>
+	<project>
+	  School wide information systems monitoring, optimization, capacity planning and troubleshooting.
+	</project>
+	<project>
+	  Second line support for school wide, instruct technicians and helpdesks to solve problems.
+        </project>
+	</projects>
+	<para>
+	  Achievements:
+	</para>
+	<achievements>
+	  <achievement>
+            Designed and setup a Linux HA cluster with SAN storage(Brocade 300E, HP StorageWorks MSA 2000) for open source applications(CentOS 5). 
+	    Designed and setup MySQL replication for HA cluster. Designed and setup Awstats for web traffic statistics.                                    
+          </achievement>
+    	  <achievement>
+	    Designed and setup LVS-based Squid load balance cluster for school wide proxy service to replace Novell BorderManager
+	    and Microsoft ISA. (CentOS 5, Ubuntu Hardy)
+    	  </achievement>
+    	  <achievement>
+	    Designed and migrated DNS and NTP service from Windows 2000 to the same load balance cluster running Squid.
+    	  </achievement>
+	  <achievement>
+            Designed and Setup a Linux DHCP application failover system using ISC DHCP features.
+          </achievement>
+	  <achievement>
+	    Setup and Deployed Puppet on all Linux servers to ease the configuration management. Developed various scripts for Puppet.
+	  </achievement>
+	  <achievement>
+	    Setup and Deployed Nagios on all Linux servers and part of the Windows servers for monitoring. 
+	    Developed various scripts for Nagios.
+          </achievement>
+	  <achievement>
+	    Integrated Ubuntu Hardy to CommVault backup system for filesystem and MySQL backup. (Ubuntu is not officially supported by CommVault,
+	    need some customization and modification)
+	  </achievement>
+	  <achievement>
+            Setup and Deployed GIT on RHEL 5 as the version control system for all the configuration files and scripts.
+          </achievement>
+	  <achievement>
+	    Technical documents writing and management using DocBook 5. DocBook XSL customization for Shanghai American School.
+	  </achievement>
+  	</achievements>
+      </description>
+    </job>
+
+    <job>
+      <jobtitle>Information System Analyst</jobtitle>
+      <employer>American International Assurance, Shanghai</employer>
+      <period>
+	<from>
+	  <date>
+	    <month>July</month>
+	    <year>2007</year>
+	  </date>
+	</from>
+	<to>
+	  <date>
+	    <month>November</month>
+	    <year>2007</year>
+	  </date>
+	</to>
+      </period>
+      <description>
+	<para>	
+	  A member of AIA Technology Office, responsible for AIG China data center management, analysis, servers monitor and technical support.
+        </para>
+	<para>
+	  Duties And Responsibilities:
+	</para>
+	<projects>
+	<project>
+	  Windows server 2000/2003 system management and maintenance.
+	</project>
+	<project>
+	  Citrix Metaframe management and maintenance.
+	</project>
+	<project>
+	  Sunsystems financial system management and maintenance.
+	</project>
+	<project>
+	  Websphere management and maintenance.
+	</project>
+	<project>
+	  SuSE Linux evaluation and test for preparing to run CA Autosys on it.
+	</project>
+	<project>
+	  VMWare ESX management and maintenance.
+	</project>
+	<project>
+	  IBM AS400 management and maintenance.
+	</project>
+	</projects>
+	<para>
+	  Achievements:
+	</para>
+	<achievements>
+          <achievement>
+	    AIG Datacenter relocation: ensure that the servers and information systems working correctly after relocation.
+          </achievement>
+          <achievement>
+	    Migrated Sunsystems database distributed on AIA China branch to the datacenter database.
+          </achievement>
+          <achievement>
+	    AD migration project: migrated from Windows Domain to Windows AD architecture.
+          </achievement>
+        </achievements>
+      </description>
+    </job>
+
+    <job>
+      <jobtitle>Software Engineer</jobtitle>
+      <employer>Shanghai Zenitek Power Co., Ltd.</employer>
+      <period>
+	<from>
+	  <date>
+	    <month>September</month>
+	    <year>2005</year>
+	  </date>
+	</from>
+	<to>
+	  <date>
+	    <month>July</month>
+	    <year>2007</year>
+	  </date>
+	</to>
+      </period>
+      <description>
+	<para>
+	  Linux embedded software engineer, reponsible for designing and developing SCADA system used by power industry. 
+	</para>
+	<para>
+	  Duties And Responsibilities:
+	</para>
+	<projects>
+	  <project>
+	    Researching system requirements, implementation and coding, performing code review for bug tracking, performance tuning and optimization.
+	  </project>
+	  <project>
+	    GNU tools setup and management for software development.
+	  </project>
+	</projects>
+	<para>
+	  Main projects and achievements:
+	</para>
+	<achievements>
+	  <achievement>
+	    Developed the DPA, DCA and configuration UI modules for the power protocol gateway, 
+	    hardware based on Digi embedded module (32-bit NET+ARM microprocessors, tow serial ports, one 10/100 enternet interface, ThreadX RTOS)
+	    with Raven Debugger, using C programming language.
+	  </achievement>
+	  <achievement>
+	    Compiled and built the cross-compile enviroment on Fedora Core 2, setup Subversion 
+	    on a Debian server for code review and version control. written the technical document on how to use Subverion in software developemtn.
+	  </achievement>
+	  <achievement>
+            Customized and optimized Debian Linux for SEL-3351 System Computing Platform, 
+	    fully supported its hardware and made a recovery CD for installation
+	  </achievement>
+	</achievements>
+      </description>
+    </job>
+
+    <job>
+      <jobtitle>Software Engineer</jobtitle>
+      <employer>Linpus Technologies, Inc.</employer>
+      <period>
+	<from>
+	  <date>
+	    <month>May</month>
+	    <year>2004</year>
+	  </date>
+	</from>
+	<to>
+	  <date>
+	    <month>May</month>
+	    <year>2005</year>
+	  </date>
+	</to>
+      </period>
+      <description>
+	<para>
+	  Responseble for researching and developing Linpus Linux System. Linpus Linux is a commercial, 
+	  Fedora-based distribution(see <link href="http://www.linpus.com">http://www.linpus.com</link>).
+	</para>
+	<para>
+	  Achievements:
+ 	</para>
+	<achievements>
+          <achievement>
+	    Linpus Linux 9.3: Developed multi-language input method(use C language); 
+	    developed base system that passed LSB 2.0 certification; 
+	    developed auto packaging system to test source packages(use Bash shell).
+          </achievement>
+          <achievement>
+	    Linpus Linux 9.2 Live CD: Customized and optimized system, developed disk installation program(use C).
+          </achievement>
+          <achievement>
+	    Linpus Linux Recovery CD: Developed recovery system for various hardware vendor(Acer, Asus, Gigabyte, etc), use Bash shell scripting and 
+	    various GNU tools.
+          </achievement>
+        </achievements>
+      </description>
+    </job>
+
+
+    <job>
+      <jobtitle>Software Engineer</jobtitle>
+      <employer>Jin Jiang High Tech Co., Ltd.</employer>
+      <period>
+	<from>
+	  <date>
+	    <month>July</month>
+	    <year>2000</year>
+	  </date>
+	</from>
+	<to>
+	  <date>
+	    <month>May</month>
+	    <year>2004</year>
+	  </date>
+	</to>
+      </period>
+      <description>
+	<para>
+	  A member of the logistics software development team, participate in the research and development of logistics software product.
+	  System administration and technical support for Jin Jiang International.
+	</para>
+	<para>
+          Duties And Responsibilities:
+        </para>
+        <projects>
+          <project>
+            Researching logistics system requirements, implementation and coding, performing code review.
+          </project>
+          <project>
+	     Imformation system administration and maintenance, include: Digital Alpha server and Digital Unix, Windows NT 4.0,
+	     Netscape Directory Server/Web Server/Mail Server, Checkpoint software firewall, Lotus Notes.
+          </project>
+        </projects>
+	<para>
+	  Achievements:
+	</para>
+	<achievements>
+          <achievement>
+	    JHJ Suzhou Branch Logistics System: Developed using Delphi and SQL Server 2000.
+          </achievement>
+          <achievement>
+	    JHJ Web Site: Developed using ASP.Net and SQL Server 2000.
+          </achievement>
+          <achievement>
+	    JHJ Logistics System: Developed COM+ component using Visual C++ 6.0 and SQL Server 2000	
+          </achievement>
+	  <achievement>
+	    Jin Jiang International Financial Report System: Developed using Oracle 7 Web Server script engine and Microsoft Office Excel VBA
+          </achievement>
+	  <achievement>
+   	     Jin Jiang International Intranet Web Site: Developed using ASP and SQL Server 2000
+          </achievement>
+        </achievements>
+      </description>
+    </job>
+  </history>
+
+  <academics>
+    <title>Education</title>
+    <degrees>
+      <degree>
+	<level>Bachelor of Science</level>
+	<major>Computer and Information Science</major>
+	<period>	
+	<from>
+          <date>
+            <month>July</month>
+            <year>1996</year>
+          </date>
+	</from>
+	<to>
+	  <date>
+	    <month>July</month>
+	    <year>2000</year>
+ 	  </date>
+	</to>
+	</period>
+	<institution>East China University of Science and Technology</institution>
+      </degree>
+    </degrees>
+  </academics>
+
+  <misc>
+    <para>References available upon request.</para>
+  </misc>
+
+  <copyright>
+    <year>2010</year>
+    <name>
+      <firstname>Warren</firstname>
+      <surname>Young</surname>
+    </name>
+  </copyright>
+</resume>
+
+<!--
+Local Variables:
+compile-command: "SP_CHARSET_FIXED=YES SP_ENCODING=XML nsgmls -wxml -mdeclaration/xml.soc -gues resume.xml"
+End:
+-->

@@ -167,7 +167,7 @@
 	</para>
 	<achievements>
 	  <achievement>
-            Designed and setup a Linux HA cluster with SAN storage(Brocade 300E, HP StorageWorks MSA 2000) for open source applications(CentOS 5). 
+            Designed and setup a Linux Apache HA cluster with SAN storage(Brocade 300E, HP StorageWorks MSA 2000) for various web applications(CentOS 5). 
 	    Designed and setup MySQL replication for HA cluster. Designed and setup Awstats for web traffic statistics.                                    
           </achievement>
     	  <achievement>

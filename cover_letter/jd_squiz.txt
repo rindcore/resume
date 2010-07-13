@@ -1,0 +1,39 @@
+Do you have a desire to put your skills to the test and take your career to the next level as a System Administrator for one of Australia’s leading Web Development Companies? – look no further - this is the job for YOU!
+
+Here’s why!
+
+Squiz is a leader in the Australian CMS market, using ever-changing technology to keep ahead of the competition. We provide a range of IT services around our hugely popular open source content management system, MySource Matrix, and we service a broad range of large and high profile private and government organisations.
+We are now looking for a talented Systems Administrator to further strengthen our team. As a Squiz Systems Administrator your duties would primarily involve the installation and maintenance of web and intranet servers and associated applications. This would include providing support to users, and troubleshooting when problems arise.
+
+Here at Squiz you will have the opportunity to create your dream role! – Imagine this:
+
+    * The opportunity to build, install and support a variety of client systems – where your daily tasks will vary each day
+    * A great salary package commensurate with your skills and experience
+    * Extend your knowledge of open-source frameworks and technologies
+    * The opportunity to work in a great, Australian company alongside other Linux System Administrators and Web/IT professionals
+    * Enjoy occasional travel (This role requires on-site support for clients from time-to-time)
+    * Enjoy a relaxed and supportive work culture
+    * Be offered ongoing professional development and potential career advancement as well as the chance to work in a dynamic evolving company that is well respected within the industry.
+
+
+To be a perfect fit for this role you will need the following skills/attributes:
+
+    * Linux (Debian and RedHat Enterprise Linux) and/or Solaris experience
+    * Experience with platform scoping and building solutions
+    * Database administration experience, including MySQL, PostgreSQL and/or Oracle
+    * Experience configuring and maintaining Apache and Squid
+    * LDAP experience
+    * Experience with iptables firewalls
+    * Understanding of caching, load balancing, and high availability
+    * Demonstrate a good understanding of server security issues and web protocols
+    * Experience with network monitoring, including Nagios and OpenNMS
+    * Shell scripting
+    * Demonstrate skills for proactively identifying and resolving potential problems
+    * A “can do” attitude and professional work practices
+    * The ability and experience to work well independently as well as part of Squiz’s National System Administration team
+    * Must enjoy a projects focused client facing role and have an exceptional service ethic.
+
+
+If you think you are the right fit for this role, apply today!
+
+Please note we will only consider Australian Citizens or Permanent Residents for this position. You must also be willing to undergo a security clearance check.
